@@ -5,16 +5,16 @@ body{
 }
 @keyframes animate{
 	0%,100%{
-		background-image:url(C:\Front_end_development\Front_end-_development/CharlesBabbage.jpg);
+		background-image: url(img/CharlesBabbage.jpg);
 	}
 	25%{
-		background-image:url(C:\Front_end_development\Front_end-_developmentimg/APJ.jpg); 
+		background-image:url(img/APJ.jpg); 
 	}
 	50%{
-		background-image: url(C:\Front_end_development\Front_end-_development/Abdulkalam.jpg);
+		background-image: url(img/Abdulkalam.jpg);
 	}
 	75%{
-		background-image:url(C:\Front_end_development\Front_end-_development/CharlesBabbage.jpg);
+		background-image:url(img/CharlesBabbage.jpg);
 	}
 }
 
